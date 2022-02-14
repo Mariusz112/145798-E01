@@ -1,4 +1,7 @@
 package Z1;
 
-public class Zadanie1 {
+class Zadanie1 {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!1");
+    }
 }
